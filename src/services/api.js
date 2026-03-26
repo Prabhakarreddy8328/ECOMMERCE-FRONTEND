@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "ecommerce-backend-production-49a9.up.railway.app/api"
+  baseURL: "ecommerce-backend-production-0972.up.railway.app/api"
 });
 
 export default API;
